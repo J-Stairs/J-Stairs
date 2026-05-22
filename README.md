@@ -1,6 +1,6 @@
 # Hi, I'm Jenn 👋
 
-**I bridge the gap between technical infrastructure, analytical logic, and creative storytelling.** With a unique background rooted in both IT support and the arts—including theatre and design—I approach complex systems with a meticulous troubleshooting mindset and a deep empathy for the end-user. My training in Python, SQL, and data analytics allows me to dig deep into raw data pools to find the technical solutions, while my creative background empowers me to design clean, visually striking graphics and craft compelling data narratives that truly connect with an audience.
+**I bridge the gap between technical infrastructure, analytical logic, and creative storytelling,** with a unique background rooted in both IT support and the arts—including theatre and design—I approach complex systems with a meticulous troubleshooting mindset and a deep empathy for the end-user. My training in Python, SQL, and data analytics allows me to dig deep into raw data pools to find the technical solutions, while my creative background empowers me to design clean, visually striking graphics and craft compelling data narratives that truly connect with an audience.
 
 ---
 
