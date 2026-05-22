@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Here is a look at some of the problems I've solved, the tools I used, and the stories behind the data:
 
@@ -16,9 +16,9 @@ Here is a look at some of the problems I've solved, the tools I used, and the st
 
 ---
 
-### 💬 Let's Connect!
+### Let's Connect!
 
-* 💼 **Professional Network:** Connect or view my background on [LinkedIn](https://www.linkedin.com/in/jenn-s-05479930a/).
-* ⚙️ **Current Focus:** Visual storytelling in data analysis.
+* **Professional Network:** Connect or view my background on [LinkedIn](https://www.linkedin.com/in/jenn-s-05479930a/).
+* **Current Focus:** Visual storytelling in data analysis.
   
 ---
